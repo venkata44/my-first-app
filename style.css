@@ -1,0 +1,31 @@
+#one{
+     height: 180px;
+     width: 600px;
+     background-color: green;
+
+}
+#two{
+	 height: 190px;
+     width: 900px;
+     background-color: red;
+
+    }
+ #three{
+ 	    height: 200px;
+        width: 950px;
+        background-color: yellow;
+
+}
+.one{
+     height: 290px;
+     width: 1000px;
+     background-color: white;
+
+}
+.one{
+	height: 290px;
+     width: 1000px;
+     background-color: white;
+
+
+}

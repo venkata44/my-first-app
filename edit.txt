@@ -1,0 +1,99 @@
+<a href=https://www.facebook.com/vuppala.sairam">FB CLICK HERE</a>
+
+
+
+
+
+https://17314-presscdn-0-16-pagely.netdna-ssl.com/extended/wp-content/uploads/sites/3/2016/04/hero-home-header.jpg
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+     <head>
+  	      <title>WELCOME TO MY PAGE</title>
+  	      <link rel="stylesheet" type="text/css" href="style1.css">
+  	      <style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+  	  </head>
+  	  
+     <body style="background-color:powderblue;">
+         <h1 style="font-family:verdana;">VENKATA SAIRAM,VUPPALA</h1>
+         <img src="C:\Users\vuppa\Desktop\STUFFeeee\leaves_lots_fog_wood_autumn_wind_54010_1920x1080.jpg" alt="leaves_lots_fog_wood_autumn_wind_54010_1920x1080" width="202" height="246" div id="one">
+         <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+
+         <a href="#home">home</a>
+         <a href="#about">about</a>
+         <a href="#content">content</a>
+         <section id="home">
+     	      <div id="one">Hi myself sairam.</div>
+         </section>
+         <a href="#home">home</a>
+         <a href="#about">about</a>
+         <a href="#content">content</a>
+         <section id="about">
+          <div id="two">I have done my undergrad in GURUNANAK INSTITUTE OF TECHNOLOGY. I recently completed my MASTER'S in ELECTRICAL AND COMPUTER ENGINEERING,from NYIT. </div>
+        </section>
+        <section id="content">
+             <div class="three">Hobbies playing cricket and watching movies and so on..</div>
+             <a href=https://www.facebook.com/vuppala.sairam" target="_blank" div id="one">
+              </a>
+              </section>
+       
+     </body>
+ </html>
